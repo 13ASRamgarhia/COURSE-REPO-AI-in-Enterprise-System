@@ -1,1 +1,1 @@
-a
+amnadeep_model_v1.ipynb is a python script developed for the fulfilment of the Lab 2 of the course - AI in Enterprise System. The script is a ML model developed using the Logistic Regression algorithm of the scikit-learn library. The script involves model initialization, training, testing, and evaluation.
