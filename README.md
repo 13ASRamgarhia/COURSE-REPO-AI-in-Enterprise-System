@@ -1,0 +1,1 @@
+amandeep_model_v2.ipynb is a python script developed for the fulfilment of the Lab 2 of the course - AI in Enterprise System. The script is a ML model developed using the SVM algorithm of the scikit-learn library. The script involves model initialization, training, testing, and evaluation.
